@@ -21,9 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishnusathyana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnusathyana1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu-v-0789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-v-0789/" height="30" width="40" /></a>
-<a href="https://instagram.com/vishnu sathyantahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu sathyantahan" height="30" width="40" /></a>
+  
+<a href=" https://x.com/jofimolj89465?t=taazPkIq_IBwYZC8bfwC3Q&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jofimoljohnson" height="30" width="40" /></a>
+  
+<a href="linkedin.com/in/jofijo96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jofimoljohnson" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/jofijohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jofimoljohnson" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
