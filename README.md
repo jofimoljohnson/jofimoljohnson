@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vishnusathyana1" target="blank"><img src="https://img.shields.io/twitter/follow/vishnusathyana1?logo=twitter&style=for-the-badge" alt="vishnusathyana1" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce application](https://github.com/vishnuvvv/e-commerce-app-front-end.git)
+- 🔭 I’m currently working on [e-commerce application](...)
 
 - 📫 How to reach me **jofimolsj@gmail.com**
 
