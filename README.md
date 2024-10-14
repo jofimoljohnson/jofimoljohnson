@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [e-commerce application](https://github.com/vishnuvvv/e-commerce-app-front-end.git)
 
-- 📫 How to reach me **vishnusathyanathan@gmail.com**
+- 📫 How to reach me **jofimolsj@gmail.com**
 
 - ⚡ Fun fact **It's not a bug – it's an undocumented feature🤣**
 
