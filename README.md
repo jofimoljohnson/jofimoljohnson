@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![logo](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
-<h1 align="center">Hi 👋, I'm VishnU v</h1>
+<h1 align="center">Hi 👋, I'm Jofimol Johnson</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
